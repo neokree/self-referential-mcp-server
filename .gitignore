@@ -1,4 +1,4 @@
-git init# Dependencies
+# Dependencies
 node_modules/
 
 # Environment variables
